@@ -1,1 +1,1 @@
-Hi I am Aviral Aggarwal and this Repository is for the NLP project
+These are all the Week two exercises for the NLP specialization Course 1
