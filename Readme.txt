@@ -1,1 +1,1 @@
-Hi I am Aviral Aggarwal and this Repository is for the NLP project
+This branch contains all the exercises for the Sequence models course.
